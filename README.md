@@ -1,4 +1,4 @@
-# Idanode Middleware API
+# Scrypta dApp Composer
 
 This middleware API is built with NestJS and can be used to create a middleware service for any kind of backend.
 

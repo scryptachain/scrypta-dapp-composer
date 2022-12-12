@@ -23,7 +23,7 @@
   "dependencies": {
     "@nestjs/common": "^7.6.6",
     "@nestjs/core": "^7.6.6",
-    "@nestjs/platform-express": "^7.6.6",
+    "@nestjs/platform-express": "^9.2.1",
     "@scrypta/core": "^3.0.5",
     "command-line-args": "^5.1.1",
     "reflect-metadata": "^0.1.13",
